@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kowshik2008/Leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kowshik2008/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
