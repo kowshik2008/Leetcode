@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kowshik2008/Leetcode/tree/master/0326-power-of-three) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/kowshik2008/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kowshik2008/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/kowshik2008/Leetcode/tree/master/2427-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
