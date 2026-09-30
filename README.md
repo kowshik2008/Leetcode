@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kowshik2008/Leetcode/tree/master/0326-power-of-three) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kowshik2008/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/kowshik2008/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kowshik2008/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kowshik2008/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
