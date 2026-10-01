@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/kowshik2008/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/kowshik2008/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -56,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kowshik2008/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/kowshik2008/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/kowshik2008/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
