@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kowshik2008/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
