@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/kowshik2008/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kowshik2008/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kowshik2008/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kowshik2008/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/kowshik2008/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kowshik2008/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kowshik2008/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kowshik2008/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
