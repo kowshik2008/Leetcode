@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kowshik2008/Leetcode/tree/master/0020-valid-parentheses) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2678-number-of-senior-citizens](https://github.com/kowshik2008/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Math
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
