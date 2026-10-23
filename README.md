@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kowshik2008/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/kowshik2008/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kowshik2008/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/kowshik2008/Leetcode/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/kowshik2008/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3838-weighted-word-mapping](https://github.com/kowshik2008/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
