@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/kowshik2008/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kowshik2008/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshik2008/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kowshik2008/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kowshik2008/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/kowshik2008/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kowshik2008/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
