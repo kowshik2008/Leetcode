@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/kowshik2008/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kowshik2008/Leetcode/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2678-number-of-senior-citizens](https://github.com/kowshik2008/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kowshik2008/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kowshik2008/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/kowshik2008/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
