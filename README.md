@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kowshik2008/Leetcode/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/kowshik2008/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kowshik2008/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/kowshik2008/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
