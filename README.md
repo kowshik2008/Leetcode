@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshik2008/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kowshik2008/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/kowshik2008/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshik2008/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kowshik2008/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -150,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshik2008/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kowshik2008/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/kowshik2008/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kowshik2008/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshik2008/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
