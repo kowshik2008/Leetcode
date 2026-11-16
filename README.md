@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshik2008/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1550-three-consecutive-odds](https://github.com/kowshik2008/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/kowshik2008/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/kowshik2008/Leetcode/tree/master/1732-find-the-highest-altitude) |
