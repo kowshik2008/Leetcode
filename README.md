@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/kowshik2008/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kowshik2008/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/kowshik2008/Leetcode/tree/master/3151-special-array-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/kowshik2008/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kowshik2008/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/kowshik2008/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kowshik2008/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kowshik2008/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/kowshik2008/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kowshik2008/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/kowshik2008/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
