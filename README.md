@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kowshik2008/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/kowshik2008/Leetcode/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kowshik2008/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kowshik2008/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
