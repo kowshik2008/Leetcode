@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/kowshik2008/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/kowshik2008/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/kowshik2008/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kowshik2008/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kowshik2008/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/kowshik2008/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/kowshik2008/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
