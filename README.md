@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kowshik2008/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kowshik2008/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kowshik2008/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kowshik2008/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kowshik2008/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/kowshik2008/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/kowshik2008/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/kowshik2008/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kowshik2008/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kowshik2008/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/kowshik2008/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/kowshik2008/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/kowshik2008/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kowshik2008/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kowshik2008/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kowshik2008/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kowshik2008/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kowshik2008/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/kowshik2008/Leetcode/tree/master/3731-find-missing-elements) |
